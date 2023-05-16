@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Trend data analyst",
+  "name_for_model": "trendanalyst",
+  "description_for_human": "Analyse a dataset with time series",
+  "description_for_model": "Plugin for analysing trends in a time series dataset",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "http://localhost:8000/openapi.json"
+  },
+  "logo_url": "https://openmoji.org/data/color/svg/26C5.svg",
+  "contact_email": "ernesto.laval@gmail.com",
+  "legal_info_url": "http://www.example.com/legal"
+}
